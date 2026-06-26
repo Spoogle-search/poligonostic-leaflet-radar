@@ -34,4 +34,8 @@ const radar = L.poligonosticRadar({
   showAlerts: true,
   frameInterval: 800
 }).addTo(map);
+```
+## Demo
+```
+https://spoogle-search.github.io/poligonostic-leaflet-radar/examples/index.html
 
