@@ -11,13 +11,15 @@ A Leaflet plugin that displays animated weather radar, satellite, and alerts usi
 
 ## Installation
 Install via NPM:
+```
 npm install poligonostic-leaflet-radar
-
+```
 
 ### Browser
+```
 <script src="src/poligonostic-leaflet-radar.js"></script>
 
-
+```
 ## Usage
 
 ```js
