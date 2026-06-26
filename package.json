@@ -1,0 +1,11 @@
+{
+  "name": "poligonostic-leaflet-radar",
+  "version": "1.0.0",
+  "description": "A Leaflet plugin for LibreWXR radar, satellite, and alerts.",
+  "main": "src/poligonostic-leaflet-radar.js",
+  "author": "You",
+  "license": "MIT",
+  "peerDependencies": {
+    "leaflet": "^1.0.0"
+  }
+}
